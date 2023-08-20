@@ -7,8 +7,8 @@ https://www.spigotmc.org/resources/spleef-plugin.112160/
 <br>
 <h1>Usage</h1>
 <h3>Commands</h3>
-<h3>- spleefjoin | js (joining sumo)</h3>
-<h3>- spleefstart | ss (starting sumo)</h3>
+<h3>- spleefjoin (joining sumo)</h3>
+<h3>- spleefstart (starting sumo)</h3>
 <h3>- spleefsetplayer <1/2> (setting the locations for players)</h3>
 <h3>- spleefsetwaterlevel <double></h3>
 
