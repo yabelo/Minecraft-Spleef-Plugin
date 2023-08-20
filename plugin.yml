@@ -1,0 +1,10 @@
+name: SpleefPlugin
+version: '1.0'
+main: Main.Main
+author: Yablo
+
+commands:
+  spleefsetplayer:
+  spleefjoin:
+  spleefsetwaterlevel:
+  spleefstart:
